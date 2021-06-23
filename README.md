@@ -2,6 +2,7 @@
 
 Animation like YouTube playing card using Motion Layout. This demonstrates transitioning between a compact view and a full-screen experience.
 
+![play](https://user-images.githubusercontent.com/78479044/123052593-a065cc00-d420-11eb-8e4e-a8e49742e56f.gif)
 
 ##### Components
 * ConstraintLayout 2.0 - Allows you to create large and complex layouts with a flat view hierarchy provides richer features in MotionLayout.
